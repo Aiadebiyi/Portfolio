@@ -1,1 +1,1 @@
-# Portfolio
+Hello! I'm Adeyemi, a budding data analyst with a passion for uncovering insights and driving decicions through data. Here, you'll find my projects, showcasing my skills in data analysis and business intelligence. Enjoy exploring my work!
